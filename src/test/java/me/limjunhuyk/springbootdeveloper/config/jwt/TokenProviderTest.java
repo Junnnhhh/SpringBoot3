@@ -1,6 +1,5 @@
 package me.limjunhuyk.springbootdeveloper.config.jwt;
 
-import io.jsonwebtoken.Jwt;
 import io.jsonwebtoken.Jwts;
 import me.limjunhuyk.springbootdeveloper.domain.User;
 import me.limjunhuyk.springbootdeveloper.repository.UserRepository;
